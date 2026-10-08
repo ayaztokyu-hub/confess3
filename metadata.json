@@ -1,0 +1,6 @@
+{
+  "name": "For Arooba 💗",
+  "description": "An extremely cute, wholesome, dreamy and interactive confession website made specifically for Arooba.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
